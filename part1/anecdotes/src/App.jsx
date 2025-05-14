@@ -1,3 +1,4 @@
+import { log } from 'node-red';
 import { useState } from 'react'
 
 function getRandomInt(max) {
